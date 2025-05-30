@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
+    <div>
       <h1>🎉 Personal Finance App</h1>
       <p>Your app is working! This is your dashboard.</p>
       <div style={{ 
